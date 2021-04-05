@@ -32,14 +32,6 @@ body{
     margin-bottom: 20px;
 }
 
-.boton{
-    margin-top: 10px;
-    color: white;
-    background-color: #58BD83;
-    width: 30%;
-    padding: 10px;
-    border: solid transparent;
-}
 
 .controles{
     width: 100%;
@@ -48,5 +40,16 @@ body{
     border-radius: 5px;
     color: black;
     border: solid whitesmoke;
+}
+
+#boton-enviar{
+    
+    margin-top: 10px;
+    color: white;
+    font-weight: 700;
+    background-color: #58BD83;
+    width: 30%;
+    padding: 10px;
+    border: solid transparent;
 }
 
