@@ -11,6 +11,7 @@ body{
 }
 
 .form-registro{
+    margin-top: 10px;
     width: 400px;
     background-color: white;
     padding: 30px;
@@ -53,3 +54,8 @@ body{
     border: solid transparent;
 }
 
+h1{
+    margin-bottom: 10px;
+    color: #5FEBF0;
+    font-weight: 900;
+}
